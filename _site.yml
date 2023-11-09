@@ -1,0 +1,7 @@
+name: "EEB 603 Tutorial"
+output_dir: "."
+navbar:
+  title: "An Example GitHub Webpage - Intro to Plotting"
+  left:
+    - text: "Home"
+      href: index.html
