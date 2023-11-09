@@ -28,6 +28,7 @@ head(gapminder)
 #Base plot
 
 
+
 plot(x=gapminder$gdpPercap,y=gapminder$lifeExp)
 
 
